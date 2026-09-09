@@ -1,4 +1,2 @@
-Hi all
-this is new file created for learning stash
-thanks
-
+x=25
+y=30
