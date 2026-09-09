@@ -1,0 +1,19 @@
+/* Change the style of the entire webpage body */
+body {
+  background-color: lightblue;   /* Sets the background color */
+  font-family: Arial, sans-serif; /* Changes the text font */
+}
+
+/* Change the style of all main headings (h1) */
+h1 {
+  color: navy;         /* Changes the text color to navy */
+  text-align: center;  /* Centers the heading on the page */
+}
+
+/* Change the style of all paragraphs (p) */
+p {
+  font-size: 18px;     /* Increases the text size */
+  color: #333333;      /* Sets the text color to dark gray */
+  line-height: 1.5;    /* Adds space between lines of text */
+}
+
